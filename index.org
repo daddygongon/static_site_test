@@ -1,3 +1,3 @@
 #+title: hello
 
-- [[./README.html]]
+- [[file:./README.html]]
